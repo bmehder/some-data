@@ -1,6 +1,6 @@
 {
 	"name": "@bmehder/somedata",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"description": "Quick-use structured data for testing, demos, and FP utils.",
 	"main": "index.js",
 	"type": "module",
