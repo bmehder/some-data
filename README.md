@@ -88,6 +88,7 @@ random.obj()   // e.g. { id: 57, name: 'Nina' }
 
 - 🧪 Great for REPLs, demos, and playgrounds
 - 🎯 Predictable and reusable shapes
+- ⚡  No need to fetch or parse JSON
 
 ---
 
