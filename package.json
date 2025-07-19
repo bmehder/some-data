@@ -1,0 +1,10 @@
+{
+  "name": "somedata",
+  "version": "0.1.0",
+  "description": "Quick-use structured data for testing, demos, and FP utils.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["data", "test", "mock", "demo", "functional", "utilities"],
+  "author": "Brad Mehder",
+  "license": "MIT"
+}
