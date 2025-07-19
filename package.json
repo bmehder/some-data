@@ -4,6 +4,7 @@
 	"description": "Quick-use structured data for testing, demos, and FP utils.",
 	"main": "index.js",
 	"type": "module",
+	"types": "index.d.ts",
 	"keywords": [
 		"data",
 		"test",
