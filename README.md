@@ -64,6 +64,7 @@ console.log(r.list())
 - `obj` – `{ id: 1, name: 'Test', active: true }`
 - `objNested` – `{ a: { b: { c: 42 } } }`
 - `listNested` – `[['a', 'b'], ['c', 'd']]`
+- `entries` – `[['a', 1], ['b', 2],...]`
 - `tree` – Tree-structured nested object
 
 ### Generators

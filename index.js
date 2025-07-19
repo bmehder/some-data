@@ -3,6 +3,7 @@ export { default as list } from './static/list.js'
 export { default as obj } from './static/obj.js'
 export { default as objNested } from './static/obj-nested.js'
 export { default as listNested } from './static/list-nested.js'
+export { default as entries } from './static/entries.js'
 export { default as tree } from './static/tree.js'
 
 // Generators
