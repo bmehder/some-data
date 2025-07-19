@@ -1,4 +1,4 @@
-# somedata
+# @bmehder/somedata
 
 **Quick-use structured data for testing, demos, and functional programming.**
 
@@ -9,14 +9,14 @@ No setup, no dependencies — just import and go.
 ## 🚀 Installation
 
 ```bash
-npm install somedata
+npm install @bmehder/somedata
 ```
 
 Or use via CDN (ESM-compatible):
 
 ```html
 <script type="module">
-  import { list, obj } from 'https://unpkg.com/somedata/index.js'
+  import { list, obj } from 'https://unpkg.com/@bmehder/somedata/index.js'
   console.log(list, obj)
 </script>
 ```
@@ -28,7 +28,7 @@ Or use via CDN (ESM-compatible):
 ### Import everything
 
 ```js
-import * as data from 'somedata'
+import * as data from '@bmehder/somedata'
 
 console.log(data.list)
 console.log(data.range(3))
@@ -38,7 +38,7 @@ console.log(data.random.obj())
 ### Destructure what you need
 
 ```js
-import { list, obj, users, random } from 'somedata'
+import { list, obj, users, random } from '@bmehder/somedata'
 
 console.log(list)
 console.log(users(3))
@@ -48,7 +48,7 @@ console.log(random.list())
 ### Alias the random imports
 
 ```js
-import { random as r } from 'somedata'
+import { random as r } from '@bmehder/somedata'
 
 console.log(r.obj())
 console.log(r.list())
